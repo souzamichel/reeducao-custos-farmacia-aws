@@ -13,17 +13,17 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 ## Descrição do Projeto
 O projeto de implementação de ferramentas escolheu 3 recursos disponíveis da AWS, cada uma com seus objetivos específicos. A seguir, serão descritas tais ferramentas do projeto.
 
-Etapa 1:
+Recurso 1:
 - AWS RDS
 - Banco de dados Relacional
 - Por ser utilizado um banco de dados relacional na solução atualmente utilizada pela empresa, é possível fazer a migração para a nuvem AWS com a utilização desde recurso. Com ele, há a possibilidade de dimensionamento dos recursos utilizados pelo banco de dados, como, cpu, memória e armazenamento. Com a possibilidade de dimensionamento dinâmico, poderá ser feita a otimização de recursos, com consequente redução de custos para a empresa.
 
-Etapa 2:
+Recurso 2:
 - AWS S3
 - Armazenamento
 - Assim como com o banco de dados AWS RDS, há a possibilidade de dimensionamento dinâmico para o consumo de armazenamento, podendo ser utilizado para guarda de objetos, como backups do próprio banco de dados, entre outros. 
 
-Etapa 3:
+Recurso 3:
 - AWS EC2
 - Computação
 - Fechando os recursos que vislumbramos para a utilização pela empresa, diante do cenário atual, acreditamos que o AWS EC2, que representa uma espécie de máquina ou servidor, pode abrigar o serviço principal da farmácia, podendo atender aos requisitos de processamento e memória para a execução do servidor de aplicação ou serviço web. 
