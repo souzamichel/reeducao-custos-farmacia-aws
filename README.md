@@ -1,4 +1,4 @@
-# reeducao-custos-farmacia-aws
+# reducao-custos-farmacia-aws
 10/7/25 - repositório com informações de projeto para redução de custos de uma farmácia - dio - formação aws
 
 # Relatório de implementação de serviços AWS
